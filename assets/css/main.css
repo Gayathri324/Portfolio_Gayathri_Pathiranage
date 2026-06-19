@@ -1752,6 +1752,10 @@ input, select, textarea {
   letter-spacing: 0.08em;
 }
 
+.contact a {
+    pointer-events: none;
+}
+
 #header p:last-of-type {
   opacity: 0.85;
 }
